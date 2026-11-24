@@ -1,0 +1,25 @@
+/products333
+/products333
+/products333
+GET on /products333
+GET on /favicon.ico
+POST on /api/v1/auth/signin
+POST on /api/v1/auth/signin
+POST on /api/v1/auth/signin
+POST on /api/v1/auth/signin
+POST on /api/v1/auth/signin
+POST on /api/v1/auth/signin
+POST on /api/v1/auth/signin
+POST on /api/v1/auth/signup
+GET on /api/v1/auth/signin
+GET on /products
+GET on /.well-known/appspecific/com.chrome.devtools.json
+GET on /.well-known/appspecific/com.chrome.devtools.json
+GET on /.well-known/appspecific/com.chrome.devtools.json
+GET on /.well-known/appspecific/com.chrome.devtools.json
+GET on /.well-known/appspecific/com.chrome.devtools.json
+GET on /.well-known/appspecific/com.chrome.devtools.json
+GET on /.well-known/appspecific/com.chrome.devtools.json
+GET on /.well-known/appspecific/com.chrome.devtools.json
+POST on /products
+DELETE on /api/v1products/6b033b9d622e62141fa0265f
